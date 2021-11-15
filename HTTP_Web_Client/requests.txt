@@ -1,0 +1,10 @@
+client-get /
+client-get /
+client-get /
+client-get /
+client-get /
+client-get /
+client-post michael_scott.gif
+client-get index.html
+client-get image.jpg
+client-get sample.txt
